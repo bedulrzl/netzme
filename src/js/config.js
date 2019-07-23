@@ -1,0 +1,1 @@
+export const Proxy = "https://my-json-server.typicode.com/destri8/demo/data"
